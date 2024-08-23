@@ -1,0 +1,5 @@
+node_modules
+
+pass:Vhd5Dfo7qvQdnD8n
+mongodb+srv://shadahadad123:Vhd5Dfo7qvQdnD8n@backenddb.j6vid.mongodb.net/
+mongoose.connect("mongodb+srv://shadahadad123:Vhd5Dfo7qvQdnD8n@backenddb.j6vid.mongodb.net/Node-API?retryWrites=true&w=majority&appName=BackendDB").then(() => {
